@@ -10,3 +10,7 @@ Oi.. Meu nome é Jhonatas ou só Jhon mesmo e estou iniciando na área de progra
 ![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonGb26&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
