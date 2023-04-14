@@ -14,8 +14,12 @@ Oi.. Meu nome é Jhonatas ou só Jhon mesmo e estou iniciando na área de progra
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=devweekgit.github.io)](https://github.com/JhonGb26/devweekgit.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=Html)](https://github.com/JhonGb26/Html)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=devweekgit.github.io)](https://github.com/JhonGb26/devweekgit.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=target_estagio)](https://github.com/JhonGb26/target_estagio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=EbaJavaScript)](https://github.com/JhonGb26/EbaJavaScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=ebacSql)](https://github.com/JhonGb26/ebacSql)
+
 # Contatos
 
  [<img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">](https://www.linkedin.com/mwlite/in/jhonatas-nascimento-a9383a252)
