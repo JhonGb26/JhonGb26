@@ -25,6 +25,6 @@ Oi.. Meu nome é Jhonatas ou só Jhon mesmo e estou iniciando na área de progra
 
 # Contatos
 
- [<img scr='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="Linkedin" height="30">](https://www.linkedin.com/mwlite/in/jhonatas-nascimento-a9383a252)
-  [<img scr='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="Gmail" height="30">](jhonjohn.js@gmail.com)
+ [<img scr="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" alt="Linkedin" height="30" />](https://www.linkedin.com/mwlite/in/jhonatas-nascimento-a9383a252)
+  [<img scr="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" alt="Gmail" height="30" />](jhonjohn.js@gmail.com)
 
