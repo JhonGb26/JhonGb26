@@ -13,7 +13,7 @@ Oi.. Meu nome é Jhonatas ou só Jhon mesmo e estou iniciando na área de progra
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonGb26&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonGb26&theme=onedark)]
 
 # Projetos
 
