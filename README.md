@@ -12,20 +12,21 @@ Meu nome é Jhonatas ou só Jhon mesmo e estou iniciando na área de programaç�
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonGb26&theme=onedark)
+<div align="center">
+  <a href="https://github.com/JhonGb26/Html">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonGb26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonGb26&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+    
 
-# Projetos
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonGb26&hide_progress=true)](https://github.com/JhonGb26) 
-
-<!-- <a href="https://github.com/JhonGb26/Html">
+<!--<a href="https://github.com/JhonGb26/Html">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=Html" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/)]()
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=devweekgit.github.io)](https://github.com/JhonGb26/devweekgit.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=target_estagio)](https://github.com/JhonGb26/target_estagio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JhonGb26&repo=EbaJavaScript)](https://github.com/JhonGb26/EbaJavaScript)
