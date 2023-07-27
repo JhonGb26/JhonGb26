@@ -33,6 +33,6 @@ Meu nome é Jhonatas ou só Jhon mesmo e estou iniciando na área de programaç�
 -->
 # Contatos
 <a class="apresentacao__links__link" href="https://www.linkedin.com/in/jhonatas-nascimento-a9383a252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a class="apresentacao__links__link" href="jhonjohn.js@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="mailto:jhonjohn.js@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
 
